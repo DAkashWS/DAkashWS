@@ -1,152 +1,86 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/banner.png" width="100%" alt="Banner"/>
+<img src="https://raw.githubusercontent.com/DAkashWS/DAkashWS/main/banner.png" width="100%" />
 
-# 👋 Hey, I'm Akash
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=💀+Welcome+to+PH4NT0M;☕+Java+Developer;🌐+Building+a+Browser;🎮+Gaming+Enthusiast;🚀+Always+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=💀+PH4NT0M+ONLINE;☕+Java+Developer;🌐+Browser+Developer;🎮+Gaming+Enthusiast;⚡+Building+The+Future"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=000000&style=for-the-badge"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=DAkashWS&style=for-the-badge&color=000000&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-# 💀 About Me
+# 💀 Welcome To My Profile
 
-```java
-public class Akash {
+```bash
+╔══════════════════════════╗
+║       PH4NT0M SYSTEM     ║
+╠══════════════════════════╣
+║ Name     : Akash         ║
+║ Alias    : ph4nt0m       ║
+║ Language : Java ☕       ║
+║ Project  : Browser 🌐    ║
+║ Status   : Coding...     ║
+╚══════════════════════════╝
+🌐 Current Project
+🚀 Custom Browser
 
-    String username = "ph4nt0m";
+I am currently working on my own browser.
 
-    String role = "Browser Developer";
+Goals:
 
-    String mainLanguage = "Java";
-
-    String currentProject = "Building my own Browser";
-
-    String[] askMeAbout = {
-        "Gaming",
-        "Java",
-        "Browsers",
-        "Technology"
-    };
-
-    void life() {
-        while(true){
-            code();
-            eat();
-            sleep();
-            repeat();
-        }
-    }
-}
-```
-
----
-
-# ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode,idea&theme=dark"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img width="48%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&column=7&no-frame=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 💻 Matrix Rain
-
-<p align="center">
-
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif" width="100%"/>
-
-</p>
-
----
-
-# 🎯 Ask Me About
-
+✓ Fast performance
+✓ Clean interface
+✓ Modern browsing experience
+✓ Learning advanced development
+✓ Building something unique
+🛠 Skills & Tools
+<div align="center"> <img src="https://skillicons.dev/icons?i=java,html,css,javascript,git,github,vscode,idea&theme=dark"/> </div>
+🎮 Ask Me About
 🎮 Gaming
-
 ☕ Java
-
 🌐 Browser Development
+💻 Programming
+⚡ Technology
+📊 GitHub Stats
+<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DAkashWS&show_icons=true&theme=github_dark&hide_border=true"/> <img width="48%" src="https://streak-stats.demolab.com/?user=DAkashWS&theme=github-dark&hide_border=true"/> </div>
+💻 Most Used Languages
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAkashWS&layout=compact&theme=github_dark&hide_border=true"/> </div>
+🏆 GitHub Achievements
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=DAkashWS&theme=discord&no-frame=true&column=7"/> </div>
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/DAkashWS/DAkashWS/output/github-contribution-grid-snake-dark.svg"/> </div>
+🌧 Matrix Mode
+<div align="center"> <img src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif" width="800"/> </div>
+📂 Featured Projects
+Project	Description
+🌐 Browser	My custom browser project
+☕ Java Apps	Java experiments and tools
+🎮 Gaming Tools	Gaming related projects
 
-💻 Open Source
+DAkashWS@github:~$
 
----
+> Loading profile...
 
-# 🌎 Connect
+[████████████████] 100%
 
-<p align="center">
+System:
+ONLINE
 
-<a href="https://www.youtube.com/@ph4nt0m">
-<img src="https://skillicons.dev/icons?i=youtube"/>
-</a>
+Developer:
+PH4NT0M
 
-&nbsp;&nbsp;&nbsp;
+Mission:
+BUILD SOMETHING AWESOME
 
-<img src="https://skillicons.dev/icons?i=discord"/>
+Socials
+<div align="center"> <a href="https://www.youtube.com/@ph4nt0m"> <img src="https://skillicons.dev/icons?i=youtube"/> </a>
 
-</p>
+<br><br>
 
-<div align="center">
-
-### YouTube
-**ph4nt0m**
-
-### Discord
-**ph4nt0m**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Leave+a+⭐+if+you+like+my+projects.;Happy+Coding!"/>
-
-</div>
+End Of Transmission
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=2500&pause=1000&color=00FF00&center=true&width=700&lines=PH4NT0M+ONLINE;Thanks+For+Visiting;Keep+Coding+🚀"/> </div> ```
