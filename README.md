@@ -1,14 +1,16 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/banner.png" width="100%" alt="Banner"/>
+
 # 👋 Hey, I'm Akash
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Browser+Developer;Java+Developer;Gaming+Enthusiast;Always+Building+Something+Cool" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=💀+Welcome+to+PH4NT0M;☕+Java+Developer;🌐+Building+a+Browser;🎮+Gaming+Enthusiast;🚀+Always+Learning"/>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=000000&text=PH4NT0M&fontColor=FFFFFF&fontSize=70&animation=twinkling"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=000000&style=for-the-badge"/>
 
 </div>
+
+---
 
 # 💀 About Me
 
@@ -16,69 +18,70 @@
 public class Akash {
 
     String username = "ph4nt0m";
+
     String role = "Browser Developer";
 
-    String[] languages = {
-        "Java",
-        "JavaScript",
-        "HTML",
-        "CSS"
-    };
+    String mainLanguage = "Java";
 
-    String currentlyWorkingOn = "Building a Browser";
+    String currentProject = "Building my own Browser";
 
-    String askMeAbout = {
+    String[] askMeAbout = {
         "Gaming",
         "Java",
         "Browsers",
-        "Tech"
+        "Technology"
     };
 
-    String motto = "Code. Break. Fix. Repeat.";
+    void life() {
+        while(true){
+            code();
+            eat();
+            sleep();
+            repeat();
+        }
+    }
 }
 ```
 
 ---
 
-# ⚡ Currently Working On
-
-🚀 Developing my own **Browser**
-
-🧠 Learning new technologies every day
-
-🎮 Helping people with Gaming
-
-☕ Writing lots of Java
-
----
-
-# 🛠 Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode,idea&theme=dark"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 💻 Languages
+# 📈 Most Used Languages
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&column=7&no-frame=true"/>
 
 </p>
 
@@ -94,11 +97,11 @@ public class Akash {
 
 ---
 
-# 🏆 GitHub Trophies
+# 💻 Matrix Rain
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&row=1&column=7"/>
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif" width="100%"/>
 
 </p>
 
@@ -112,11 +115,11 @@ public class Akash {
 
 🌐 Browser Development
 
-💻 Programming
+💻 Open Source
 
 ---
 
-# 🌍 Connect With Me
+# 🌎 Connect
 
 <p align="center">
 
@@ -124,13 +127,13 @@ public class Akash {
 <img src="https://skillicons.dev/icons?i=youtube"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://discord.com/users/YOUR_DISCORD_ID">
 <img src="https://skillicons.dev/icons?i=discord"/>
-</a>
 
 </p>
+
+<div align="center">
 
 ### YouTube
 **ph4nt0m**
@@ -138,10 +141,12 @@ public class Akash {
 ### Discord
 **ph4nt0m**
 
+</div>
+
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&width=600&lines=Thanks+for+visiting!;Leave+a+⭐+if+you+like+my+projects!;See+you+again!"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Leave+a+⭐+if+you+like+my+projects.;Happy+Coding!"/>
 
 </div>
