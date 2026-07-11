@@ -1,86 +1,42 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Akash</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://raw.githubusercontent.com/DAkashWS/DAkashWS/main/banner.png" width="100%" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dakashws&label=Profile%20views&color=0e75b6&style=flat" alt="dakashws" /> </p>
 
-<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dakashws" alt="dakashws" /></a> </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=💀+PH4NT0M+ONLINE;☕+Java+Developer;🌐+Browser+Developer;🎮+Gaming+Enthusiast;⚡+Building+The+Future"/>
+<p align="left"> <a href="https://twitter.com/ph4nt0m" target="blank"><img src="https://img.shields.io/twitter/follow/ph4nt0m?logo=twitter&style=for-the-badge" alt="ph4nt0m" /></a> </p>
 
-<br>
+- 🔭 I’m currently working on **Volitac**
 
-<img src="https://komarev.com/ghpvc/?username=DAkashWS&style=for-the-badge&color=000000&label=PROFILE+VIEWS"/>
+- 🌱 I’m currently learning **Java**
 
-</div>
+- 👯 I’m looking to collaborate on **Upcoming Projects**
 
----
+- 🤝 I’m looking for help with **Coding**
 
-# 💀 Welcome To My Profile
+- 👨‍💻 All of my projects are available at [My Github Repos](My Github Repos)
 
-```bash
-╔══════════════════════════╗
-║       PH4NT0M SYSTEM     ║
-╠══════════════════════════╣
-║ Name     : Akash         ║
-║ Alias    : ph4nt0m       ║
-║ Language : Java ☕       ║
-║ Project  : Browser 🌐    ║
-║ Status   : Coding...     ║
-╚══════════════════════════╝
-🌐 Current Project
-🚀 Custom Browser
+- 📝 I regularly write articles on [My Website](My Website)
 
-I am currently working on my own browser.
+- 💬 Ask me about **Gaming**
 
-Goals:
+- 📫 How to reach me **akashdwshj172662@ssvminstitutions.ac.in**
 
-✓ Fast performance
-✓ Clean interface
-✓ Modern browsing experience
-✓ Learning advanced development
-✓ Building something unique
-🛠 Skills & Tools
-<div align="center"> <img src="https://skillicons.dev/icons?i=java,html,css,javascript,git,github,vscode,idea&theme=dark"/> </div>
-🎮 Ask Me About
-🎮 Gaming
-☕ Java
-🌐 Browser Development
-💻 Programming
-⚡ Technology
-📊 GitHub Stats
-<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DAkashWS&show_icons=true&theme=github_dark&hide_border=true"/> <img width="48%" src="https://streak-stats.demolab.com/?user=DAkashWS&theme=github-dark&hide_border=true"/> </div>
-💻 Most Used Languages
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAkashWS&layout=compact&theme=github_dark&hide_border=true"/> </div>
-🏆 GitHub Achievements
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=DAkashWS&theme=discord&no-frame=true&column=7"/> </div>
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/DAkashWS/DAkashWS/output/github-contribution-grid-snake-dark.svg"/> </div>
-🌧 Matrix Mode
-<div align="center"> <img src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif" width="800"/> </div>
-📂 Featured Projects
-Project	Description
-🌐 Browser	My custom browser project
-☕ Java Apps	Java experiments and tools
-🎮 Gaming Tools	Gaming related projects
+- ⚡ Fun fact **Fast Learner**
 
-DAkashWS@github:~$
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ph4nt0m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ph4nt0m" height="30" width="40" /></a>
+<a href="https://fb.com/ph4nt0m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ph4nt0m" height="30" width="40" /></a>
+<a href="https://instagram.com/ph4nt0m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ph4nt0m" height="30" width="40" /></a>
+</p>
 
-> Loading profile...
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-[████████████████] 100%
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dakashws&show_icons=true&locale=en&layout=compact" alt="dakashws" /></p>
 
-System:
-ONLINE
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dakashws&show_icons=true&locale=en" alt="dakashws" /></p>
 
-Developer:
-PH4NT0M
-
-Mission:
-BUILD SOMETHING AWESOME
-
-Socials
-<div align="center"> <a href="https://www.youtube.com/@ph4nt0m"> <img src="https://skillicons.dev/icons?i=youtube"/> </a>
-
-<br><br>
-
-End Of Transmission
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=2500&pause=1000&color=00FF00&center=true&width=700&lines=PH4NT0M+ONLINE;Thanks+For+Visiting;Keep+Coding+🚀"/> </div> ```
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dakashws&" alt="dakashws" /></p>
