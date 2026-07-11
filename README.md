@@ -7,23 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/ph4nt0m" target="blank"><img src="https://img.shields.io/twitter/follow/ph4nt0m?logo=twitter&style=for-the-badge" alt="ph4nt0m" /></a> </p>
 
-- 🔭 I’m currently working on **Volitac**
+- 🔭 I’m currently working on **Volitac AI**
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **Upcoming Projects**
+- 👯 I’m looking to collaborate on **My Upcoming Projects**
 
 - 🤝 I’m looking for help with **Coding**
 
-- 👨‍💻 All of my projects are available at [My Github Repos](My Github Repos)
+- 👨‍💻 All of my projects are available at **My Github Repos Soon**
 
-- 📝 I regularly write articles on [My Website](My Website)
+- 📝 Im regularly online on **Discord**
 
 - 💬 Ask me about **Gaming**
 
-- 📫 How to reach me **akashdwshj172662@ssvminstitutions.ac.in**
+- 📫 Reach me using this email: **akashdwshj172662@ssvminstitutions.ac.in**
 
-- ⚡ Fun fact **Fast Learner**
+- ⚡ **HypeSquad Brilliance**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
